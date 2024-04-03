@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	@font-face {
+		font-family: "work-sans";
+		font-style: normal;
+		src: url("../assets/fonts/WorkSans-VariableFont_wght.ttf")
+			format("truetype");
+	}
+	@font-face {
+		font-family: "work-sans";
+		font-style: italic;
+		src: url("../assets/fonts/WorkSans-Italic-VariableFont_wght.tff")
+			format("truetype");
+	}
+}
