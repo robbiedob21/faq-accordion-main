@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/robbiedob21/faq-accordion-main](https://github.com/robbiedob21/faq-accordion-main)
-- Live Site URL: [https://robbiedob21-accordion.netlify.app/](https://robbiedob21-accordion.netlify.app/)
+- Live Site URL: [https://robbiekiwi-accordion.netlify.app/](https://robbiedob21-accordion.netlify.app/)
 
 ## My process
 

@@ -767,6 +767,10 @@ video {
   content: var(--tw-content);
 }
 
+.hover\:font-bold:hover {
+  font-weight: 700;
+}
+
 .hover\:underline:hover {
   text-decoration-line: underline;
 }
